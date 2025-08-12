@@ -9,7 +9,7 @@ public class SumOfThree {
          {
             arr[i]= scc.nextInt();
          }
-         Boolean F = false;
+        // Boolean F = false;
          Outer :
          for(int i=0;i<5;i++)
                 {
@@ -22,8 +22,8 @@ public class SumOfThree {
              if(arr[k]+arr[i]+arr[j]==10)
              {
                 System.out.println("index are "+i+" "+j+" "+k);
-                F = true;
-                
+
+                //F = true;
                 break Outer;
              }
                 
@@ -32,6 +32,7 @@ public class SumOfThree {
              }
 
                 }
+                scc.close();
 
     }
    
