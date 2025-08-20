@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class NextGreatestElememy {
     public static void main(String[] args) {
+       
         Scanner sc = new Scanner(System.in);
         int n=0;
         System.out.print("enter the length of array ");
@@ -27,7 +28,7 @@ public class NextGreatestElememy {
                  }
 
 
-                 sc.close();
+                 
                  
     }
 }
