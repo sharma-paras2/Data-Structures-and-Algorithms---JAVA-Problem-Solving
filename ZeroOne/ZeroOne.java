@@ -1,3 +1,4 @@
+package ZeroOne;
 import java.util.Scanner;
 public class ZeroOne {
     public static void main(String[] args) {

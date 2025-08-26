@@ -1,3 +1,4 @@
+package SumCheck;
 import java.util.Scanner;
 public class SumCheck{
     public static void main(String[] args) {

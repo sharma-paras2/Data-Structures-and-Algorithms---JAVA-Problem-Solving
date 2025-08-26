@@ -1,3 +1,4 @@
+package SumOfThree;
 import java.util.Scanner;
 public class SumOfThree {
     public static void main(String[] args) {
