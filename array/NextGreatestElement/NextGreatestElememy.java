@@ -1,4 +1,3 @@
-package NextGreatestElement;
 import java.util.Scanner;
 public class NextGreatestElememy {
     public static void main(String[] args) {
